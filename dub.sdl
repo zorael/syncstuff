@@ -1,0 +1,6 @@
+name "syncstuff"
+description "syncs newer files over FTP"
+authors "JR"
+copyright "Copyright © 2022, JR"
+license "BSL-1.0"
+dependency "requests" version="~>2.0.7"

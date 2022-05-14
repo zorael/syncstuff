@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/syncstuff
+syncstuff.so
+syncstuff.dylib
+syncstuff.dll
+syncstuff.a
+syncstuff.lib
+syncstuff-test-*
+*.exe
+*.o
+*.obj
+*.lst
