@@ -13,3 +13,5 @@ syncstuff-test-*
 *.o
 *.obj
 *.lst
+index.json
+credentials.json
